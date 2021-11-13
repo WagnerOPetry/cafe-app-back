@@ -1,0 +1,4 @@
+com\projeto\ProjetoDevApplication.class
+com\projeto\model\Colaborador.class
+com\projeto\controller\ColaboradorController.class
+com\projeto\repository\ColaboradorRepository.class
