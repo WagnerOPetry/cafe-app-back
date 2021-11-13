@@ -1,4 +1,13 @@
-C:\git\Projeto.Desafio\ProjetoDev\src\main\java\com\projeto\repository\ColaboradorRepository.java
-C:\git\Projeto.Desafio\ProjetoDev\src\main\java\com\projeto\model\Colaborador.java
-C:\git\Projeto.Desafio\ProjetoDev\src\main\java\com\projeto\ProjetoDevApplication.java
-C:\git\Projeto.Desafio\ProjetoDev\src\main\java\com\projeto\controller\ColaboradorController.java
+C:\git\cafe-app-back\src\main\java\com\projeto\ProjetoDevApplication.java
+C:\git\cafe-app-back\src\main\java\com\projeto\repository\ColaboradorRepository.java
+C:\git\cafe-app-back\src\main\java\com\projeto\dto\ColaboradorDTO.java
+C:\git\cafe-app-back\src\main\java\com\projeto\controller\ColaboradorController.java
+C:\git\cafe-app-back\src\main\java\com\projeto\service\ColaboradorService.java
+C:\git\cafe-app-back\src\main\java\com\projeto\model\ItemCafe.java
+C:\git\cafe-app-back\src\main\java\com\projeto\util\ColaboradorConverter.java
+C:\git\cafe-app-back\src\main\java\com\projeto\controller\ItemCafeController.java
+C:\git\cafe-app-back\src\main\java\com\projeto\dto\ItemCafeDTO.java
+C:\git\cafe-app-back\src\main\java\com\projeto\repository\ItemCafeRepository.java
+C:\git\cafe-app-back\src\main\java\com\projeto\util\ItemCafeConverter.java
+C:\git\cafe-app-back\src\main\java\com\projeto\model\Colaborador.java
+C:\git\cafe-app-back\src\main\java\com\projeto\service\ItemCafeService.java
